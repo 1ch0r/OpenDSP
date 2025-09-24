@@ -1,4 +1,3 @@
----
 
 **OpenDSP** is a mobile-friendly, Web-in-App educational platform designed to make **Digital Signal Processing (DSP)** intuitive, interactive, and accessible.
 
