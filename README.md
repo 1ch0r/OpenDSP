@@ -31,6 +31,14 @@ OpenDSP aims to demystify the core concepts of DSP through hands-on tools and vi
 
 ---
 
+## Demo
+
+---
+
+▶️ [Watch Demo Video](assets/demo.mp4)
+
+---
+
 ## 📦 Installation
 
 OpenDSP is designed as a mobile application.
