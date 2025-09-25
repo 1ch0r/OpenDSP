@@ -1,11 +1,8 @@
 {
-  "name": "expo-app",
+  "name": "OpenDSP",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "2.7.7",
   "scripts": {
-    "start": "bunx rork start -p 3zxmooqztkiq4e19tkv3m --tunnel",
-    "start-web": "bunx rork start -p 3zxmooqztkiq4e19tkv3m --web --tunnel",
-    "start-web-dev": "DEBUG=expo* bunx rork start -p 3zxmooqztkiq4e19tkv3m --web --tunnel",
     "lint": "expo lint"
   },
   "dependencies": {
