@@ -1,11 +1,11 @@
 
-**OpenDSP** is a mobile-friendly, Web-in-App educational platform designed to make **Digital Signal Processing (DSP)** intuitive, interactive, and accessible.
+**OpenDSP** is an educational platform designed to make **Digital Signal Processing (DSP)** intuitive, interactive, and accessible.
 
 ---
 
 ##Purpose
 
-OpenDSP aims to demystify the core concepts of DSP through hands-on tools and visualizations. By combining waveform generation, filtering, and spectral analysis in a sleek mobile interface, users can explore how signals behave and transform—without needing expensive lab equipment.
+OpenDSP aims to demystify the core concepts of DSP through hands-on tools and visualizations. By combining waveform generation, filtering, and spectral analysis in a sleek mobile interface, users can explore how signals behave and transform—without needing expensive lab equipment. Source is open source and forks with improved functionality are encouraged.
 
 ---
 
@@ -33,30 +33,17 @@ OpenDSP aims to demystify the core concepts of DSP through hands-on tools and vi
 
 ## 📦 Installation
 
-OpenDSP is designed to be embedded in mobile apps via WebView or accessed directly in a browser.
+OpenDSP is designed as a mobile application.
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/OpenDSP.git
-
-# Navigate into the project
-cd OpenDSP
-
-# Launch locally (requires a simple HTTP server)
-npm install
-npm start
-```
-
-Or deploy to your favorite static hosting service (e.g., GitHub Pages, Netlify, Vercel).
+Run using npm, or expo
 
 ---
 
 ## 🛠️ Tech Stack
 
 - React Native
-- Typescript  
+- Typescript
 - Expo
-- Mobile-first responsive design
 
 ---
 
@@ -68,7 +55,7 @@ This project is licensed under the GPL3.
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have ideas for new features, improvements, or educational modules, feel free to fork the repo and submit a pull request!
+Contributions are welcome! If you have ideas for new features, improvements, or educational modules, feel free to fork the repo and submit a pull request!
 
 ---
 
