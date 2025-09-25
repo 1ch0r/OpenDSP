@@ -23,10 +23,10 @@ OpenDSP aims to demystify the core concepts of DSP through hands-on tools and vi
 - **FFT Peak + Waterfall Combo**  
   - Real-time frequency domain analysis  
   - Peak detection and spectral waterfall visualization  
-  - Adjustable FFT windowing and resolution
+  - FFT windowing with squelch option
 
-- **Mobile-Optimized Web Interface**  
-  - Runs seamlessly inside mobile apps  
+- **Mobile-Optimized**  
+  - Runs seamlessly as a mobile app  
   - Touch-friendly controls and responsive layout
 
 ---
