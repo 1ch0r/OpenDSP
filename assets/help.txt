@@ -1,0 +1,5 @@
+4 images should generally go here.
+adaptive-icon.png
+favicon.png
+icon.png
+splash-icon.png
