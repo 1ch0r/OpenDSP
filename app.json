@@ -28,10 +28,9 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.OpenDSP.signalsynth-play",
+      "package": "app.1ch0r.OpenDSP",
       "permissions": [
         "android.permission.VIBRATE",
-        "RECORD_AUDIO"
       ]
     },
     "web": {
