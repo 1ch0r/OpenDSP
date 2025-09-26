@@ -67,6 +67,9 @@ This project is licensed under the GPL3.
 
 Contributions are welcome! If you have ideas for new features, improvements, or educational modules, feel free to fork the repo and submit a pull request!
 
+## Dev Credits
+This program was made by 1ch0r for Teznet OpenCore.
+
 ---
 
 ## 📬 Contact
