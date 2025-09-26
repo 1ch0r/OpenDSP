@@ -1,9 +1,11 @@
 
-**OpenDSP** is an educational platform designed to make **Digital Signal Processing (DSP)** intuitive, interactive, and accessible.
+## **OpenDSP** 
+
+is an educational platform designed to make **Digital Signal Processing (DSP)** intuitive, interactive, and accessible.
 
 ---
 
-##Purpose
+## Purpose
 
 OpenDSP aims to demystify the core concepts of DSP through hands-on tools and visualizations. By combining waveform generation, filtering, and spectral analysis in a sleek mobile interface, users can explore how signals behave and transform—without needing expensive lab equipment. Source is open source and forks with improved functionality are encouraged.
 
