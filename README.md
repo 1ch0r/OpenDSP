@@ -37,7 +37,7 @@ OpenDSP aims to demystify the core concepts of DSP through hands-on tools and vi
 
 ---
 
-[![Watch Demo](assets/freq.jpg)](assets/demo.mp4)
+[![Watch Demo](assets/freq.jpg)](https://www.youtube.com/shorts/-9vIZJpEuLc)
 
 ---
 
